@@ -1,0 +1,18 @@
+{
+    "name": "yaroslavche/bts",
+    "description": "Bitshares",
+    "type": "library",
+    "autoload": {
+        "psr-4": {"Bitshares\\": "src/"}
+    },
+    "require": {
+        "textalk/websocket": "^1.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yaroslavche",
+            "email": "yaroslav429@gmail.com"
+        }
+    ]
+}
